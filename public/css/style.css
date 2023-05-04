@@ -1,0 +1,14 @@
+button > .fa-pen-to-square
+{
+    color: green;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+button > .fa-trash
+{
+    color: red;
+    font-size: 20px;
+    padding: 10px;
+}
